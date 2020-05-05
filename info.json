@@ -1,0 +1,13 @@
+{
+    "name": "Nick Meier",
+    "linkedin": "https://www.linkedin.com/in/nickrmeier/",
+    "github": "nickrmeier",
+    "email": "nickrmeier@gmail.com",
+        "proficientTechnologies": [
+            "Javascript",
+            "React",
+            "Node",
+            "Express",
+            "Mongodb"
+        ]
+}
